@@ -1,0 +1,46 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(70, 160, 230);
+    color: #0c0a0a;
+}
+
+header, footer {
+    background-color: #b0d7ee;
+    color: rgb(230, 23, 23);
+    text-align: center;
+    padding: 15px 0;
+}
+
+nav a {
+    color: rgb(166, 5, 5);
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.exhibition {
+    text-align: center;
+}
+
+.exhibition-item {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #381baf;
+    background-color: rgb(101, 151, 245);
+    text-align: left;
+}
+
+.exhibition-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

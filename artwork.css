@@ -1,0 +1,43 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(70, 160, 230);
+    color: #0b0b09;
+}
+
+header, footer {
+    background-color: #76c6fc;
+    color: rgb(134, 3, 3);
+    text-align: center;
+    padding: 15px 0;
+}
+
+nav a {
+    color: rgb(76, 1, 1);
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.artwork {
+    text-align: center;
+}
+
+.art-piece {
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+}
+
+.art-piece img {
+    max-width: 100%;
+    height: auto;
+}
