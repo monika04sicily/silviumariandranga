@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgba(70, 160, 230);
+    color: #333;
+}
+
+header, footer {
+    background-color: #93ecfa;
+    color: rgb(229, 0, 0);
+    text-align: center;
+    padding: 15px 0;
+}
+
+nav a {
+    color: rgb(53, 54, 8);
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.bibliography {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.bibliography ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bibliography li {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.bibliography li strong {
+    color: #555;
+}
