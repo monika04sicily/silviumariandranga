@@ -1,2 +1,2 @@
 # Proiect Netlify  
-Acesta este fișierul README.md.
+Acesta este fișierul README.md. 
