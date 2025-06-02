@@ -1,8 +1,0 @@
-.stilizzato {
-    black -space: pre; /* Mantiene gli spazi e le linee come sono */
-    font-family: monospace; /* Usa un font monospace per una visualizzazione uniforme */
-    background-color: #000; /* Sfondo nero per contrasto */
-    color: #00FF00; /* Testo verde per un effetto simile a un terminale */
-    padding: 20px;
-    overflow: auto; /* Aggiunge una barra di scorrimento se il contenuto è troppo largo */
-}
